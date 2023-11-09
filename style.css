@@ -8,6 +8,12 @@ body{
 }
 
 .principal{
-     background-color: rgb(245, 235, 220);
+     background-color: rgb(161, 203, 235);
      color: black;
+}
+
+.rodape{
+     background-color: rgb(153, 153, 241);
+     color: black;
+     text-align: center;
 }
