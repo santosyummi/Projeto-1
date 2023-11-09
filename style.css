@@ -1,3 +1,7 @@
+body{
+     background-color: rgb(143, 126, 238);
+}
+
 #imagem-konan{
      width: 250px;
      border: solid 10px rgb(51, 30, 170) ;
