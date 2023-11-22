@@ -12,3 +12,12 @@
     width: 200px;
     border: solid
 }
+
+.principal{
+    background-color: rgb(89, 56, 120);
+    border: 11px;
+    border-color: rgb(32, 81, 115);
+    border-style: dashed;
+    margin: 31px;
+    color: rgb(210, 189, 189);
+}
