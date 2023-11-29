@@ -21,3 +21,15 @@
     margin: 31px;
     color: rgb(210, 189, 189);
 }
+
+.3links{
+        font-size: 20px;
+        color: black;
+        text-decoration: none;
+}
+
+.3link:hover{
+        font-size: 26px;
+        color: rgb(233, 231, 231);
+        text-decoration: underline;
+}
